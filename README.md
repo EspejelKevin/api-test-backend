@@ -1,4 +1,4 @@
-# API CRUD RESTAURANT
+# API SEPOMEX
 
 *This is a Flask API using data from SEPOMEX*
 
