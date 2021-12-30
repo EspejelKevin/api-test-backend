@@ -11,6 +11,14 @@
 *Use git clone o download zip to have this project in your machine*
 *Navigate to the carpet of the project*
 
+## Configuration additional
+*The file src/db.py has my credentials to connect to Postgresql, it is neccesary to change those data*
+
+## DB Included
+*I have included the file dbsepomex.sql to get the database and the stored procedure that you need to work with the project*
+
+**This file can be import from PgAdmin**
+
 ### Virtual environments
 *You need create a virtual environment (Windows): *
 ```
